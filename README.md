@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JorgeOchoaMu
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning HTML, JS, CSS
+- 📫 How to reach me jorgeivanochoa1972@gmail.com
